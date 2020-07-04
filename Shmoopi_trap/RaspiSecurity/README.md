@@ -1,6 +1,9 @@
+# You can read about this project further on this medium post.
+https://medium.com/@Gushu/building-the-shmoopi-trap-6fe39f973e46
+
 # RaspiSecurity
-Home Surveillance with Raspberry with only ~100 lines of Python Code.
-For technical details check the realted [medium post](https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9). Hope you like it.
+The implementation of the background subtraction algorithm is borroed heavily from this related 
+[medium post](https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9).
 
 # Installation to a new Raspberry2 B+
 
